@@ -26,7 +26,7 @@ You will have to install kibana (if you want to visualize your data):
 
 ## Start app
 This command will start the client and the server app at the same time. The url for the client is : localhost:3000 and the url for the server is localhost:5000
-> npm start
+
 
 ```mermaid
 graph LR
