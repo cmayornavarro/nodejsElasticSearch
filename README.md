@@ -11,7 +11,7 @@ This project allows to use the ElasticSearch functionnalities using javascript:
 In order to start working with nodeJS and ElasticSearch, you have to installe the following verions:
 > node v12.16.3
 
-> elasticSearch v6.5.4
+> elasticSearch v6.5.4 ( https://www.elastic.co/fr/downloads/kibana )
 
 ### package.json 
     "react": "^16.13.1",
@@ -20,9 +20,7 @@ In order to start working with nodeJS and ElasticSearch, you have to installe th
     "elasticsearch": "^16.7.1",
     "express": "^4.16.4"
     
-You will have to install elasticSearch (and Kibana if you want to visualize your data).
-
-> https://www.elastic.co/fr/downloads/kibana
+You will have to install kibana (if you want to visualize your data):
 
 > https://www.elastic.co/fr/downloads/elasticsearch
 
