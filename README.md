@@ -10,6 +10,7 @@ This project allows to use the ElasticSearch functionnalities using javascript:
 You will have to install elasticSearch (and Kibana if you want to visualize your data).
 
 > https://www.elastic.co/fr/downloads/kibana
+
 > https://www.elastic.co/fr/downloads/elasticsearch
 
 ## Start app
