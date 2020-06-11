@@ -29,21 +29,5 @@ This command will start the client and the server app at the same time. The url 
 
 > npm start
 
-graph TD
-	A[Christmas] -->|Get money| B(Go shopping)
-	B --> C{Let me think}
-	C -->|One| D[Laptop]
-	C -->|Two| E[iPhone]
-	C -->|Three| F[fa:fa-car Car]
-					
-          
-graph LR
-A[ReactJS - localhost:3000 ] -- request --> B[nodeJS - localshot:5000]
-B --query--> D[elasticSearch localhost:9200]
-D --response--> B
-B --response--> A
-
-
-
 ## Contribution
 Please feel free to contribute new functionalities or any improvements.
