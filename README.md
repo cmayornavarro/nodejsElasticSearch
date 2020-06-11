@@ -1,6 +1,6 @@
 # ReactJS + NodeJS + ElasticSearch
 
-This project allows to use the ElasticSearch functionnalities using javascript:
+This project allows to use the ElasticSearch functionalities using javascript:
   - Create an index
   - Set Mapping data
   - Search data
@@ -8,7 +8,7 @@ This project allows to use the ElasticSearch functionnalities using javascript:
 
 ## Requirements
 
-In order to start working with nodeJS and ElasticSearch, you have to installe the following verions:
+In order to start working with nodeJS and ElasticSearch, you have to install the following verions:
 > node v12.16.3
 
 > elasticSearch v6.5.4 ( https://www.elastic.co/fr/downloads/elasticsearch )
